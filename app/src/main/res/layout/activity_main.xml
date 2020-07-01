@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/black"
     android:orientation="vertical">
-
 
     <ImageView
         android:id="@+id/imageLogo"
@@ -38,7 +35,8 @@
         android:textColorHint="@color/realwhite"
         android:textStyle="bold"
         android:inputType="textPersonName"
-        android:hint="@string/hint_name" />
+        android:hint="@string/hint_name"
+        android:importantForAutofill="no"/>
 
     <EditText
         android:id="@+id/editTextPassword"
@@ -49,7 +47,8 @@
         android:textColorHint="@color/realwhite"
         android:textStyle="bold"
         android:inputType="textPassword"
-        android:hint="@string/hint_password"/>
+        android:hint="@string/hint_password"
+        android:importantForAutofill="no"/>
 
     <Button
         android:id="@+id/buttonCreateObject"

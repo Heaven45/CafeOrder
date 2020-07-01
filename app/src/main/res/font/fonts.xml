@@ -10,13 +10,4 @@
         app:fontWeight="400"
         app:font="@font/vegan"
         />
-    <font
-        android:fontStyle="normal"
-        android:fontWeight="100"
-        android:font="@font/vegan"
-        app:fontStyle="normal"
-        app:fontWeight="100"
-        app:font="@font/vegan"
-        />
-
 </font-family>

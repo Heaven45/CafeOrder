@@ -8,17 +8,17 @@
     <string name="hint_password">password</string>
     <string name="button_create_order">Make an order</string>
     <string name="warning_fill_fields">"Все поля должны быть заполнены"</string>
-    <string name="hello_user">Привет, %s! Что будете заказывать?</string>
+    <string name="hello_user">Привет, %s! Что будешь заказывать?</string>
     <string name="tea">Чай</string>
     <string name="coffee">Кофе</string>
-    <string name="additions">Что добавить в ваш %s?</string>
+    <string name="additions">Что добавить в %s?</string>
     <string name="milk">Молоко</string>
     <string name="sugar">Сахар</string>
     <string name="lemon">Лимон</string>
-    <string name="choose_drink">Выберите вид напитка?</string>
+    <string name="choose_drink">Выбери вид напитка</string>
     <string name="button_send_description">Кнопка отправить заказ</string>
     <string name="order">Имя: %s\nПароль: %s\nНапиток: %s\nВид напитка: %s\n</string>
-    <string name="neen_additions">\Необходимые добавки: \"</string>
+    <string name="neen_additions">\Добавки: \</string>
     <string name="button_confirm">Confirm</string>
     <string name="make_an_order">Make an order</string>
 
